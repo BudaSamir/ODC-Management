@@ -105,7 +105,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>👨‍👧‍👦 Meetings </em></strong></h3>
+<strong><em>🤝🏻 Meetings </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/meetings/Meetings.png">
@@ -114,7 +114,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>👦👧 Sprints </em></strong></h3>
+<strong><em>🕖 Sprints </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/sprint/Card Screen.png">
@@ -123,7 +123,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>💵 Teams </em></strong></h3>
+<strong><em>👨‍💻👩‍💻👨‍💻👩‍💻 Teams </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/teams/My Teams.png">
