@@ -117,12 +117,8 @@
 <strong><em>👦👧 Sprints </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/ChildrenLogin/ChildrenLogin1.png">
-   <img src="./screenshots/ChildrenLogin/ChildrenLogin2.png">
-   <img src="./screenshots/ChildrenLogin/ChildrenLogin3.png">
-   <img src="./screenshots/ChildrenLogin/ChildrenLogin4.png">
-   <img src="./screenshots/ChildrenLogin/ChildrenLogin5.png">
-   <img src="./screenshots/ChildrenLogin/ChildrenLogin6.png">
+   <img src="./screenshots/sprint/Card Screen.png">
+
 </div>
 
 <summary>
