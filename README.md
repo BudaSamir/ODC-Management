@@ -81,7 +81,8 @@
 <div align="center">
    <img src="/screenshots/splash_screen/Splash Screen #1.png">
    <img src="/screenshots/splash_screen/Splash Screen #2.png">
-   <img src="/screenshots/splash_screen/Splash Screen #3.png">
+   <img src="screenshots/splash_screen/Splash Screen #3.png">
+    
 </div>
 
 <summary>
