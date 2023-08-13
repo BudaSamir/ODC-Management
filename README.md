@@ -105,17 +105,11 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>👨‍👧‍👦 Father Follow </em></strong></h3>
+<strong><em>👨‍👧‍👦 Meetings </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/DadFollow/DadFollow1.png">
-   <img src="./screenshots/DadFollow/DadFollow2.png">
-   <img src="./screenshots/DadFollow/DadFollow3.png">
-   <img src="./screenshots/DadFollow/DadFollow4.png">
-   <img src="./screenshots/DadFollow/DadFollow5.png">
-   <img src="./screenshots/DadFollow/DadFollow6.png">
-   <img src="./screenshots/DadFollow/DadFollow7.png">
-   <img src="./screenshots/DadFollow/DadFollow8.png">
+   <img src="./screenshots/meetings/Meetings.png">
+   <img src="./screenshots/meetings/Edit Meetings.png">
 </div>
 
 <summary>
