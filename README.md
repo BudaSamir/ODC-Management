@@ -89,7 +89,7 @@
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/Auth/Login.png">
+   <img src="./screenshots/auth/Login.png">
    <img src="./screenshots/Auth/signup.png">
    <img src="./screenshots/Auth/OTP.png">
    <img src="./screenshots/Auth/OTP2.png">
