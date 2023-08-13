@@ -126,10 +126,7 @@
 <strong><em>💵 Teams </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/AddMoney/AddMoney1.png">
-   <img src="./screenshots/AddMoney/AddMoney2.png">
-   <img src="./screenshots/AddMoney/AddMoney3.png">
-   <img src="./screenshots/AddMoney/AddMoney4.png">
+   <img src="./screenshots/teams/My Teams.png">
 </div>
 
 
