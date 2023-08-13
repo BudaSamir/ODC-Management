@@ -76,16 +76,12 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>⚡️Splash Screens & OnBoarding Screens</em></strong></h3>
+<strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/Splash&onBoarding/SplashScreen.png">
-   <img src="./screenshots/Splash&onBoarding/SmartWallet.png">
-   <img src="./screenshots/Splash&onBoarding/SmartCard.png">
-   <img src="./screenshots/Splash&onBoarding/kid'sMoneyControl.png">
-   <img src="./screenshots/Splash&onBoarding/House'sMoneyMannagment.png">
-   <img src="./screenshots/Splash&onBoarding/Debt.png">
-   <img src="./screenshots/Splash&onBoarding/House'sMoneyMannagment2.png">
+   <img src="./screenshots/splash_screen/Splash Screen #1.png">
+   <img src="./screenshots/splash_screen/Splash Screen #2.png">
+   <img src="./screenshots/splash_screen/Splash Screen #3.png">
 </div>
 
 <summary>
