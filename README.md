@@ -114,7 +114,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>👦👧 Children Login </em></strong></h3>
+<strong><em>👦👧 Sprints </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/ChildrenLogin/ChildrenLogin1.png">
@@ -127,7 +127,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>💵 ADD Money </em></strong></h3>
+<strong><em>💵 Teams </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/AddMoney/AddMoney1.png">
@@ -136,47 +136,6 @@
    <img src="./screenshots/AddMoney/AddMoney4.png">
 </div>
 
-<summary>
-<h3 style="display:inline">
-<strong><em>💸 Transfer Money </em></strong></h3>
-</summary>
-<div align="center"> 
-   <img src="./screenshots/SendMoney/Sendmoney1.png">
-   <img src="./screenshots/SendMoney/Sendmoney2.png">
-   <img src="./screenshots/SendMoney/Sendmoney3.png">
-   <img src="./screenshots/SendMoney/Sendmoney4.png">
-</div>
-
-<summary>
-<h3 style="display:inline">
-<strong><em>💰 Wallet</em></strong></h3>
-</summary>
-<div align="center"> 
-   <img src="./screenshots/Wallet/Wallet1.png">
-   <img src="./screenshots/Wallet/Wallet2.png">
-   <img src="./screenshots/Wallet/Wallet3.png">
-   <img src="./screenshots/Wallet/Wallet4.png">
-</div>
-
-
-<summary>
-<h3 style="display:inline">
-<strong><em>💳 Smart Card </em></strong></h3>
-</summary>
-<div align="center">
-   <img src="./screenshots/SmartCard/SmartCard1.png">
-   <img src="./screenshots/SmartCard/SmartCard2.png">
-   <img src="./screenshots/SmartCard/SmartCard3.png">
-</div>
-
-
-<summary>
-<h3 style="display:inline">
-<strong><em>📇 Scan National ID </em></strong></h3>
-</summary>
-<div align="center">
-   <img src="./screenshots/Debts/Debts.png">
-</div>
 
 <h2 href="#Contributors">✍️ Contributors</h2>
 <table>
