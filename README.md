@@ -31,35 +31,43 @@
 
 <h2 href="#packages-used">📦 Packages used : </h2>
  <ul>
-  <li>shared_preferences:</li>
-  <li>dio:</li>
-  <li>curl_logger_dio_interceptor:</li>
-  <li>bloc:</li>
-  <li>flutter_bloc:</li>
-  <li>animated_splash_screen:</li>
-  <li>flutter_svg:</li>
-  <li>font_awesome_flutter:</li>
-  <li>carousel_slider:</li>
-  <li>google_fonts:</li>
-  <li>shimmer:</li>
-  <li>dots_indicator:</li>
-  <li>flutter_screenutil:</li>
-  <li>smooth_page_indicator: </li>
-  <li>card_swiper:</li>
-  <li>flutter_rating_bar:</li>
-  <li>go_router: </li>
-  <li>another_flushbar:</li>
-  <li>flutter_animation_progress_bar:</li>
-  <li>flutter_launcher_icons:</li>
-  <li>camera:</li>
-  <li>google_mlkit_text_recognition:</li>
-  <li>permission_handler: </li>
-  <li>intl: </li>
-  <li>syncfusion_flutter_charts:</li>
-  <li>sparkline: </li>
-  <li>blur: </li>
-  <li>passcode_screen:</li>
-  <li>flutter_screen_lock: </li>
+    <li> equatable:</li>
+    <li>table_calendar:</li>
+   <li>dashed_circular_progress_bar:</li>
+   <li>flutter_launcher_icons:</li>
+   <li>intl:</li>
+   <li>flutter_svg:</li>
+   <li>font_awesome_flutter:</li>
+   <li>flutter_pw_validator:</li>
+   <li>intl_phone_number_input:</li>
+   <li>carousel_slider:</li>
+   <li>google_fonts:</li>
+   <li>shimmer:</li>
+   <li>permission_handler:</li>
+   <li>flutter_datetime_picker:</li>
+   <li>dots_indicator:</li>
+   <li>fluttertoast:</li>
+   <li>flutter_screenutil:</li>
+   <li>smooth_page_indicator:</li>
+   <li>url_launcher:</li>
+   <li>convex_bottom_bar:</li>
+   <li>card_swiper:</li>
+  <li>timeline_list: </li>
+   <li>contained_tab_bar_view:</li>
+   <li>easy_localization:</li>
+   <li>flutter_windowmanager:</li>
+   <li>geolocator:</li>
+   <li>google_maps_flutter:</li>
+   <li>bloc:</li>
+   <li>flutter_bloc:</li>
+   <li>path_provider:</li>
+   <li>shared_preferences:</li>
+   <li>dio:</li>
+   <li>curl_logger_dio_interceptor:</li>
+   <li>socket_io_client:</li>
+   <li>sqflite:</li>
+   <li>timezone: </li>
+   <li>liquid_progress_indicator_v2:</li>
  </ul>
 <hr>
 
