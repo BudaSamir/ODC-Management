@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <h1 align='center'><i>Orange Digital Center Hackathon Project</i></h1>
+    <h1 align='center'><i>Orange Digital Center Management System App</i></h1>
    <img src="./screenshots/intro.png">
 </div>
 
