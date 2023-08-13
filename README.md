@@ -97,10 +97,10 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>🏠 Home</em></strong></h3>
+<strong><em>🏠 DashBoard</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/home/homeScreen.png">
+   <img src="./screenshots/dashboard/Dashboard.png">
 </div>
 
 <summary>
