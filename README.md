@@ -109,7 +109,7 @@
 </summary>
 <div align="center">
    <img src="./screenshots/meetings/Meetings.png">
-   <img src="./screenshots/meetings/Edit Meetings.png">
+   <img src="./screenshots/meetings/Edit Meeting.png">
 </div>
 
 <summary>
